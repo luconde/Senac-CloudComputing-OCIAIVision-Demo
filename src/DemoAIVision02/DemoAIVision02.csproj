@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OCI.DotNetSDK.Aivision" Version="64.2.0" />
+    <PackageReference Include="OCI.DotNetSDK.Objectstorage" Version="64.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Private-oracleidentitycloudservice_luconde-07-11-00-08.pem">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Public-oracleidentitycloudservice_luconde-07-11-00-08_public.pem">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

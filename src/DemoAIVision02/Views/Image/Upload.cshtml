@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Upload & Classificação";
+}
+@{
+    if (ViewBag.OK)
+    {
+        <p><b>Realizado com sucesso !</b></p>
+        <p><b>Nome do Arquivo:</b> @ViewBag.FileName</p>
+        <p><b>Url:</b> <a href="@ViewBag.Url">@ViewBag.Url</a></p>
+        <p><b>Propriedades</b></p>
+        <table border="1">
+            <tr>
+                <th>Propriedade</th>
+                <th>Nível de Confiança</th>
+            </tr>
+        @foreach (var item in ViewBag.Labels)
+        {
+            <tr>
+                <td>@item.Name</td>
+                    @{
+                        var dblConfidence = item.Confidence * 100;
+                    }
+                <td>@dblConfidence %</td>
+            </tr>
+        }
+        </table>
+        <br />
+        <img src="@ViewBag.Url"/>
+    }
+    else
+    {
+        <p>Não ha nenhum arquivo !</p>
+    }
+}
