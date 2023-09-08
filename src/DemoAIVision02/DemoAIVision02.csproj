@@ -4,6 +4,10 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <Authors>Luciano Condé</Authors>
+	  <Copyright>© 2023 - Luciano Condé</Copyright>
+	  <Version>1.0.10</Version>
+	  <Product>Demo de OCI AI Vision</Product>   
   </PropertyGroup>
 
   <ItemGroup>

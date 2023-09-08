@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "3bWbSxEq/rlgaq3KBskxl4xmpoGIeKeWtl1upBKzSXsblV00QfzmiCeOzNnVr+lLxG3whL7GDNXG7UoRA8mfzw==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\Senac-CloudComputing-OCIAIVision-Demo\\src\\DemoAIVision02\\DemoAIVision02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luconde\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\nlog\\4.7.2\\nlog.4.7.2.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\oci.dotnetsdk.aivision\\64.2.0\\oci.dotnetsdk.aivision.64.2.0.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\oci.dotnetsdk.common\\64.2.0\\oci.dotnetsdk.common.64.2.0.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\oci.dotnetsdk.objectstorage\\64.2.0\\oci.dotnetsdk.objectstorage.64.2.0.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\polly\\7.2.0\\polly.7.2.0.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\luconde\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

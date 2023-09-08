@@ -1,0 +1,21 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "OCIBucket": {
+    "Repository": "<Insira o nome do repositorio>",
+    "BucketName": "<Insira o nome do Bucket>",
+    "FolderName": "<Insira o nome da pasta>",
+    "CompartmentId": "<Insira o OCI Id do Compartment>",
+    "UserId": "<Insira o OCI Id do Usuario>",
+    "Fingerprint": "<Insira o Fingerprint associado>",
+    "TenantId": "<Insira o OCI Id do Tenant>",
+    "PassPhrase": "<Insira a senha da Private Key>",
+    "RegionId": "<Insira a regiao>",
+    "PrivateKeyFile": "<Insira o nome do arquivo da Private Key associado>"
+  }
+}

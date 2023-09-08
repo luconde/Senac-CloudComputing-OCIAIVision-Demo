@@ -6,19 +6,16 @@ Projeto construído para a disciplina **Cloud Computing e Internet das Coisas** 
 # Autor
 **Luciano Condé de Souza (luconde@gmail.com)**  
 **Data da criação do projeto**: 2023-06-26  
-**Data da última atualização**: 2023-06-26  
-**Versão**: 1.0.0
+**Data da última atualização**: 2023-09-07  
+**Versão**: 1.0.10
 
 ## Disclaimer
 O seguinte material foi construído a partir de referências publicadas na Internet, livros e artigos acadêmicos. As referências foram utilizadas de sites e posts na Internet, não há qualquer propósito de plagiar os autores, em caso de pedidos de adição do autor, pode encontrar em contato pelo email luconde@gmail.com. A simplificação de certos conteúdos tem o único propósito didático para facilitar o entendimento dos mesmos para os alunos.
 
 # Notas da versão 
-## Versão 1.0.0
-1. Pasta **scripts** para armazenamento dos scripts Powershell para administração do ambiente
-2. Pasta **src** para ter o código-fonte do projeto
-3. Movimentação do código-fonte para dentro da pasta **src**
-4. Atualização e ajustes do arquivo README.md
-5. Tagging para ter mais controle da evolução do código-fonte
+## Versão 1.0.10
+1. Adição da exibição da versão, copyright, nome do projeto diretamente no rodapé de cada página, a partir dos dados do Assembly
+2. Melhorias no Sobre
 
 # Detalhes técnicos
 
