@@ -6,22 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
 	  <Authors>Luciano Condé</Authors>
 	  <Copyright>© 2023 - Luciano Condé</Copyright>
-	  <Version>1.0.10</Version>
+	  <Version>1.0.15</Version>
 	  <Product>Demo de OCI AI Vision</Product>   
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="OCI.DotNetSDK.Aivision" Version="64.2.0" />
     <PackageReference Include="OCI.DotNetSDK.Objectstorage" Version="64.2.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Private-oracleidentitycloudservice_luconde-07-11-00-08.pem">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="Public-oracleidentitycloudservice_luconde-07-11-00-08_public.pem">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>

@@ -6,6 +6,10 @@
     }
   },
   "AllowedHosts": "*",
+  "Deploy": {
+    "Target": "NGINX",
+    "UsePathBase": "<Caso esteja utilizando NGINX, coloque a subdiretorio virtual onde a aplicação será executado>"
+  },
   "OCIBucket": {
     "Repository": "<Insira o nome do repositorio>",
     "BucketName": "<Insira o nome do Bucket>",
